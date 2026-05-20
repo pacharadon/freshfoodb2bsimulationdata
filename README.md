@@ -59,6 +59,22 @@ Or load `data/freshketdanny.csv` into a notebook / DataLab / any SQL tool and ru
 ## Tech
 Python · pandas · SQL (DuckDB-compatible) · synthetic data generation.
 
+## AI helper — ask the data in plain English
+`python/ai_helper.py` turns a natural-language question into a DuckDB SQL query (via an LLM),
+runs it against the dataset, and returns the result — the same plain-English-to-SQL idea Agoda
+uses GPT for in production.
+
+```bash
+pip install -r requirements.txt
+export OPENAI_API_KEY=sk-...
+python python/ai_helper.py "Which province had the highest net GMV?"
+```
+```python
+from ai_helper import ask
+ask("Average order value for chains vs independents?")
+```
+The SQL-execution layer (`run_sql`) works on its own; only the LLM step needs an API key.
+
 ## Author
 **Danny** — Head of Account Management (SaaS / e-commerce / platforms), building data &
 analytics skills toward the SE-Asia food-tech space.
