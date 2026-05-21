@@ -1,0 +1,202 @@
+employee_id,full_name,department,role,location_type,employment_type,hire_date,monthly_salary_thb
+EMP-0001,Mali Wong,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2025-04-15,24000
+EMP-0002,Anan Phong,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2020-06-07,13500
+EMP-0003,Arnon Thongchai,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2025-08-20,30000
+EMP-0004,Somchai Charoen,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Part-time,2020-05-17,24500
+EMP-0005,Sai Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-08-03,15500
+EMP-0006,Kade Boonmee,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Contract,2024-04-13,17500
+EMP-0007,Bee Srisai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2024-09-17,13500
+EMP-0008,Kade Wong,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2022-04-05,13000
+EMP-0009,Decha Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2020-08-08,12000
+EMP-0010,Kanya Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2023-09-25,14500
+EMP-0011,Mint Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2023-07-04,13000
+EMP-0012,Boon Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2018-06-06,15500
+EMP-0013,Thanya Srisuk,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2019-08-16,28500
+EMP-0014,Wichai Wong,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2017-10-02,12500
+EMP-0015,Fah Thongchai,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2019-07-24,18000
+EMP-0016,Bee Thongchai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-09-14,12500
+EMP-0017,Boon Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2019-01-26,12000
+EMP-0018,Chai Phuwadon,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2023-04-17,32500
+EMP-0019,Chai Intra,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-07-27,14500
+EMP-0020,Ploy Srisai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2024-03-28,16000
+EMP-0021,Fah Thongchai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2018-02-18,12500
+EMP-0022,Boon Phuwadon,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2020-06-06,15000
+EMP-0023,Phon Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2019-11-04,13000
+EMP-0024,Somchai Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-11-08,12500
+EMP-0025,Fah Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-08-28,13000
+EMP-0026,Pim Sukhum,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2024-06-02,15500
+EMP-0027,Thanya Srisuk,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-10-30,14000
+EMP-0028,Pim Chai,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2020-05-26,17500
+EMP-0029,Kanya Thongchai,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Contract,2020-12-27,29500
+EMP-0030,Suda Srisai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2022-11-15,14500
+EMP-0031,Wichai Thongchai,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2022-06-30,20500
+EMP-0032,Niran Boonmee,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2021-04-03,17000
+EMP-0033,Kade Sukhum,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Contract,2024-03-27,15000
+EMP-0034,Mint Kovit,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2024-09-03,21000
+EMP-0035,Wichai Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Contract,2020-07-12,14000
+EMP-0036,Chai Phuwadon,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2023-01-08,15000
+EMP-0037,Thanya Boonmee,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Contract,2025-12-15,16000
+EMP-0038,Kade Wong,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2018-05-17,14000
+EMP-0039,Ying Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2019-02-17,13000
+EMP-0040,Somchai Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2021-01-05,16000
+EMP-0041,Phon Srisuk,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2024-07-04,19000
+EMP-0042,Kanya Rattanakul,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2023-01-28,15500
+EMP-0043,Sai Charoen,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2023-04-23,15500
+EMP-0044,Gade Phuwadon,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2018-01-01,19000
+EMP-0045,Krit Thongchai,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Contract,2020-07-27,17500
+EMP-0046,Krit Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2017-09-06,12500
+EMP-0047,Nan Boonmee,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2019-05-20,33000
+EMP-0048,Niran Srisai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2021-12-09,13500
+EMP-0049,Fah Srisuk,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2022-08-15,15500
+EMP-0050,Niran Srisai,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2020-02-04,26000
+EMP-0051,Decha Phong,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Full-time,2019-02-16,17000
+EMP-0052,Ying Sukhum,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2018-03-11,15000
+EMP-0053,Phon Charoen,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2022-07-24,17000
+EMP-0054,Mali Imm,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2024-12-08,13500
+EMP-0055,Anan Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2019-02-24,15000
+EMP-0056,Sai Intra,Warehouse & Fulfillment,Forklift Operator,Distribution Center,Part-time,2026-04-16,15500
+EMP-0057,Kanya Charoen,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Part-time,2026-04-01,16000
+EMP-0058,Gade Boonmee,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2025-09-11,15000
+EMP-0059,Thanya Thongchai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2022-06-23,12500
+EMP-0060,Wichai Imm,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Contract,2020-02-26,17500
+EMP-0061,Sai Srisuk,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2024-03-01,14500
+EMP-0062,Mali Imm,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Part-time,2021-08-05,26500
+EMP-0063,Fah Sukhum,Warehouse & Fulfillment,Warehouse Supervisor,Distribution Center,Full-time,2021-08-11,31500
+EMP-0064,Mint Kovit,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2020-11-13,12000
+EMP-0065,Ying Phuwadon,Warehouse & Fulfillment,Cold Storage Technician,Distribution Center,Full-time,2020-01-11,21000
+EMP-0066,Tul Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2017-07-22,14000
+EMP-0067,Kanya Intra,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2019-04-01,15000
+EMP-0068,Fah Chai,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2022-10-04,12500
+EMP-0069,Phon Rattanakul,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Part-time,2025-02-09,15000
+EMP-0070,Sai Boonmee,Warehouse & Fulfillment,Picker / Packer,Distribution Center,Full-time,2019-12-23,15000
+EMP-0071,Mint Chai,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Part-time,2021-06-27,23000
+EMP-0072,Boon Thongchai,Logistics & Delivery,Delivery Driver,Field,Contract,2021-03-05,17000
+EMP-0073,Gade Sukhum,Logistics & Delivery,Fleet Supervisor,Distribution Center,Part-time,2020-05-16,29500
+EMP-0074,Niran Phuwadon,Logistics & Delivery,Delivery Driver,Field,Full-time,2021-02-03,17500
+EMP-0075,Kade Boonmee,Logistics & Delivery,Fleet Supervisor,Distribution Center,Full-time,2023-06-13,40500
+EMP-0076,Somchai Intra,Logistics & Delivery,Delivery Driver,Field,Full-time,2024-10-18,19000
+EMP-0077,Chai Sukhum,Logistics & Delivery,Delivery Driver,Field,Full-time,2019-10-20,17500
+EMP-0078,Kanya Rattanakul,Logistics & Delivery,Delivery Driver,Field,Part-time,2024-08-13,19000
+EMP-0079,Thanya Srisai,Logistics & Delivery,Delivery Driver,Field,Full-time,2019-06-15,15000
+EMP-0080,Ploy Phong,Logistics & Delivery,Delivery Driver,Field,Full-time,2020-05-02,14000
+EMP-0081,Decha Rattanakul,Logistics & Delivery,Delivery Driver,Field,Part-time,2024-03-25,17000
+EMP-0082,Anan Kovit,Logistics & Delivery,Delivery Driver,Field,Part-time,2022-09-03,16000
+EMP-0083,Niran Chai,Logistics & Delivery,Fleet Supervisor,Distribution Center,Full-time,2026-02-04,34000
+EMP-0084,Somchai Imm,Logistics & Delivery,Delivery Driver,Field,Contract,2022-07-28,18500
+EMP-0085,Somchai Phong,Logistics & Delivery,Delivery Driver,Field,Contract,2019-02-05,17000
+EMP-0086,Chai Chai,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Full-time,2023-07-21,18000
+EMP-0087,Fah Sukhum,Logistics & Delivery,Delivery Driver,Field,Full-time,2019-04-30,15500
+EMP-0088,Mint Intra,Logistics & Delivery,Delivery Driver,Field,Part-time,2025-02-10,15500
+EMP-0089,Decha Wong,Logistics & Delivery,Delivery Driver,Field,Part-time,2018-10-16,16000
+EMP-0090,Phon Boonmee,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Contract,2021-04-27,25500
+EMP-0091,Nok Thongchai,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Full-time,2021-10-26,18500
+EMP-0092,Niran Wong,Logistics & Delivery,Delivery Driver,Field,Full-time,2020-12-30,18000
+EMP-0093,Pim Srisuk,Logistics & Delivery,Delivery Driver,Field,Contract,2023-12-16,19500
+EMP-0094,Boon Chai,Logistics & Delivery,Delivery Driver,Field,Full-time,2026-01-13,14500
+EMP-0095,Nattaya Imm,Logistics & Delivery,Fleet Supervisor,Distribution Center,Part-time,2024-04-28,28500
+EMP-0096,Niran Imm,Logistics & Delivery,Delivery Driver,Field,Full-time,2023-03-06,17000
+EMP-0097,Krit Wong,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Full-time,2018-05-17,20000
+EMP-0098,Arnon Kovit,Logistics & Delivery,Delivery Driver,Field,Full-time,2023-01-23,15500
+EMP-0099,Krit Thongchai,Logistics & Delivery,Delivery Driver,Field,Contract,2025-02-26,15500
+EMP-0100,Somchai Rattanakul,Logistics & Delivery,Delivery Driver,Field,Full-time,2023-04-03,18000
+EMP-0101,Nan Kovit,Logistics & Delivery,Delivery Driver,Field,Full-time,2018-07-07,16500
+EMP-0102,Fah Sukhum,Logistics & Delivery,Delivery Driver,Field,Contract,2019-10-17,17500
+EMP-0103,Nok Srisuk,Logistics & Delivery,Delivery Driver,Field,Part-time,2024-02-15,14500
+EMP-0104,Nan Rattanakul,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Contract,2021-06-28,21000
+EMP-0105,Fah Rattanakul,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Contract,2018-03-24,20500
+EMP-0106,Nok Sukhum,Logistics & Delivery,Delivery Driver,Field,Full-time,2023-07-31,16000
+EMP-0107,Chai Wong,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Part-time,2020-01-31,24000
+EMP-0108,Anan Srisai,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Full-time,2021-08-13,21500
+EMP-0109,Bee Intra,Logistics & Delivery,Delivery Driver,Field,Part-time,2018-05-24,16500
+EMP-0110,Nok Thongchai,Logistics & Delivery,Dispatch Coordinator,Distribution Center,Contract,2020-07-14,19000
+EMP-0111,Phon Intra,Logistics & Delivery,Fleet Supervisor,Distribution Center,Contract,2023-06-15,35500
+EMP-0112,Thanya Sukhum,Logistics & Delivery,Delivery Driver,Field,Full-time,2022-02-12,19000
+EMP-0113,Ploy Phuwadon,Logistics & Delivery,Delivery Driver,Field,Full-time,2022-11-02,17000
+EMP-0114,Fah Srisuk,Logistics & Delivery,Fleet Supervisor,Distribution Center,Part-time,2025-07-24,36000
+EMP-0115,Bee Srisuk,Logistics & Delivery,Delivery Driver,Field,Part-time,2022-11-03,18500
+EMP-0116,Pim Sukhum,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2021-04-23,19000
+EMP-0117,Wichai Boonmee,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2019-10-30,17500
+EMP-0118,Somchai Chai,Sourcing & Quality,Sourcing Officer,Field,Full-time,2025-11-21,21500
+EMP-0119,Ying Thongchai,Sourcing & Quality,QC Inspector,Distribution Center,Contract,2018-11-17,22000
+EMP-0120,Sai Kovit,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2018-10-09,20000
+EMP-0121,Krit Phong,Sourcing & Quality,Category Buyer,HQ,Full-time,2018-06-15,51500
+EMP-0122,Nan Imm,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2019-08-13,24000
+EMP-0123,Kade Phong,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2018-06-28,20000
+EMP-0124,Mali Boonmee,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2017-12-19,17500
+EMP-0125,Fah Charoen,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2021-11-21,18000
+EMP-0126,Suda Rattanakul,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2020-08-22,23500
+EMP-0127,Sai Thongchai,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2018-11-15,21000
+EMP-0128,Nok Kovit,Sourcing & Quality,Category Buyer,HQ,Full-time,2023-03-01,46000
+EMP-0129,Gade Kovit,Sourcing & Quality,Sourcing Officer,Field,Full-time,2022-06-01,24500
+EMP-0130,Tul Srisuk,Sourcing & Quality,Category Buyer,HQ,Full-time,2018-08-27,34000
+EMP-0131,Sai Phong,Sourcing & Quality,QC Inspector,Distribution Center,Contract,2020-04-13,22000
+EMP-0132,Decha Sukhum,Sourcing & Quality,Sourcing Officer,Field,Full-time,2018-08-20,21000
+EMP-0133,Mali Rattanakul,Sourcing & Quality,Category Buyer,HQ,Full-time,2023-09-21,44500
+EMP-0134,Gade Rattanakul,Sourcing & Quality,QC Inspector,Distribution Center,Full-time,2024-06-28,22000
+EMP-0135,Sai Kovit,Sourcing & Quality,Sourcing Officer,Field,Full-time,2026-03-25,18500
+EMP-0136,Gade Boonmee,Sourcing & Quality,Category Buyer,HQ,Full-time,2025-12-09,32500
+EMP-0137,Kanya Thongchai,Sourcing & Quality,QC Inspector,Distribution Center,Contract,2024-11-04,21500
+EMP-0138,Nattaya Imm,Sourcing & Quality,Sourcing Officer,Field,Full-time,2024-03-29,24000
+EMP-0139,Boon Chai,Sourcing & Quality,Sourcing Officer,Field,Full-time,2024-01-22,18500
+EMP-0140,Kanya Boonmee,Commercial (Sales / AM),Account Manager,Field,Full-time,2023-01-18,33500
+EMP-0141,Thanya Rattanakul,Commercial (Sales / AM),Account Manager,Field,Part-time,2023-06-10,43500
+EMP-0142,Gade Phuwadon,Commercial (Sales / AM),Account Manager,Field,Full-time,2020-01-06,35500
+EMP-0143,Ploy Phuwadon,Commercial (Sales / AM),Key Account Lead,HQ,Full-time,2025-03-31,59500
+EMP-0144,Gade Imm,Commercial (Sales / AM),Account Manager,Field,Full-time,2024-03-25,35000
+EMP-0145,Nan Kovit,Commercial (Sales / AM),Account Manager,Field,Full-time,2018-07-28,33500
+EMP-0146,Ying Sukhum,Commercial (Sales / AM),Account Manager,Field,Full-time,2021-12-12,30000
+EMP-0147,Arnon Srisai,Commercial (Sales / AM),Account Manager,Field,Full-time,2019-10-12,33500
+EMP-0148,Ying Thongchai,Commercial (Sales / AM),Sales Executive,Field,Full-time,2020-03-05,24500
+EMP-0149,Bee Boonmee,Commercial (Sales / AM),Key Account Lead,HQ,Full-time,2017-11-13,72000
+EMP-0150,Pim Sukhum,Commercial (Sales / AM),Account Manager,Field,Full-time,2023-01-25,28000
+EMP-0151,Anan Sukhum,Commercial (Sales / AM),Sales Executive,Field,Full-time,2020-05-07,28000
+EMP-0152,Fah Charoen,Commercial (Sales / AM),Account Manager,Field,Full-time,2021-10-26,40000
+EMP-0153,Kanya Srisai,Commercial (Sales / AM),Account Manager,Field,Full-time,2024-07-25,35000
+EMP-0154,Ying Kovit,Commercial (Sales / AM),Account Manager,Field,Full-time,2021-01-05,40000
+EMP-0155,Mali Srisuk,Commercial (Sales / AM),Sales Executive,Field,Full-time,2018-10-24,30000
+EMP-0156,Chai Chai,Commercial (Sales / AM),Account Manager,Field,Full-time,2019-07-24,44500
+EMP-0157,Chai Kovit,Commercial (Sales / AM),Key Account Lead,HQ,Part-time,2019-09-19,61000
+EMP-0158,Sai Charoen,Commercial (Sales / AM),Account Manager,Field,Contract,2019-03-03,27500
+EMP-0159,Fah Srisuk,Commercial (Sales / AM),Key Account Lead,HQ,Full-time,2021-08-01,56000
+EMP-0160,Tul Thongchai,Customer Support,Support Agent,HQ,Full-time,2022-08-30,16500
+EMP-0161,Anan Wong,Customer Support,Support Agent,HQ,Full-time,2026-04-29,19000
+EMP-0162,Phon Chai,Customer Support,Support Agent,HQ,Full-time,2026-01-28,20000
+EMP-0163,Thanya Kovit,Customer Support,Support Team Lead,HQ,Full-time,2018-03-07,31000
+EMP-0164,Kanya Charoen,Customer Support,Support Agent,HQ,Full-time,2026-03-23,23500
+EMP-0165,Chai Chai,Customer Support,Support Agent,HQ,Full-time,2025-11-02,18500
+EMP-0166,Somchai Thongchai,Customer Support,Support Agent,HQ,Full-time,2017-10-04,20500
+EMP-0167,Gade Thongchai,Customer Support,Support Agent,HQ,Full-time,2017-12-27,17000
+EMP-0168,Mali Srisai,Customer Support,Support Agent,HQ,Full-time,2024-07-08,18000
+EMP-0169,Bee Srisuk,Customer Support,Support Agent,HQ,Full-time,2019-08-27,16500
+EMP-0170,Fah Phong,Customer Support,Support Agent,HQ,Full-time,2022-06-08,21000
+EMP-0171,Bee Srisai,Customer Support,Support Agent,HQ,Full-time,2020-11-29,22500
+EMP-0172,Mali Intra,Customer Support,Support Agent,HQ,Full-time,2024-08-07,19000
+EMP-0173,Tul Phong,Customer Support,Support Agent,HQ,Full-time,2019-11-18,18000
+EMP-0174,Decha Imm,Technology,Software Engineer,HQ,Contract,2020-01-16,47000
+EMP-0175,Nok Charoen,Technology,Software Engineer,HQ,Full-time,2017-06-27,65000
+EMP-0176,Ploy Imm,Technology,Product Manager,HQ,Full-time,2019-03-01,79000
+EMP-0177,Decha Srisuk,Technology,Product Manager,HQ,Full-time,2025-05-08,110000
+EMP-0178,Wichai Phuwadon,Technology,Software Engineer,HQ,Full-time,2018-06-23,82500
+EMP-0179,Krit Sukhum,Technology,Data Analyst,HQ,Contract,2024-09-11,54000
+EMP-0180,Niran Phuwadon,Technology,Product Manager,HQ,Full-time,2018-03-16,67500
+EMP-0181,Arnon Boonmee,Technology,Data Analyst,HQ,Full-time,2024-02-16,38000
+EMP-0182,Kade Charoen,Technology,Software Engineer,HQ,Full-time,2023-04-16,58500
+EMP-0183,Anan Srisuk,Technology,Data Analyst,HQ,Full-time,2023-08-28,53000
+EMP-0184,Kanya Phuwadon,Technology,Software Engineer,HQ,Full-time,2025-04-03,90000
+EMP-0185,Ying Imm,Technology,Software Engineer,HQ,Full-time,2022-12-11,53500
+EMP-0186,Decha Intra,Marketing,Performance Marketer,HQ,Full-time,2020-03-05,48500
+EMP-0187,Chai Imm,Marketing,Performance Marketer,HQ,Full-time,2021-08-13,47500
+EMP-0188,Anan Rattanakul,Marketing,Performance Marketer,HQ,Full-time,2018-09-14,39000
+EMP-0189,Arnon Wong,Marketing,Performance Marketer,HQ,Full-time,2022-05-01,52500
+EMP-0190,Chai Imm,Marketing,Marketing Executive,HQ,Full-time,2018-04-09,44500
+EMP-0191,Arnon Thongchai,Marketing,Marketing Executive,HQ,Full-time,2020-01-24,34500
+EMP-0192,Nattaya Chai,Finance & Admin,HR Officer,HQ,Full-time,2023-11-07,25500
+EMP-0193,Wichai Sukhum,Finance & Admin,Accountant,HQ,Full-time,2024-06-05,32000
+EMP-0194,Nok Sukhum,Finance & Admin,Accountant,HQ,Contract,2019-01-27,22500
+EMP-0195,Wichai Imm,Finance & Admin,HR Officer,HQ,Full-time,2021-12-27,30000
+EMP-0196,Gade Intra,Finance & Admin,Finance Manager,HQ,Full-time,2025-01-14,74000
+EMP-0197,Fah Srisai,Finance & Admin,Accountant,HQ,Full-time,2022-03-31,23500
+EMP-0198,Mali Thongchai,Finance & Admin,HR Officer,HQ,Full-time,2017-10-06,26500
+EMP-0199,Nattaya Srisuk,Finance & Admin,Finance Manager,HQ,Full-time,2018-11-10,54000
+EMP-0200,Anan Thongchai,Finance & Admin,HR Officer,HQ,Full-time,2024-10-11,26500
+EMP-0201,Anan Imm,Finance & Admin,Finance Manager,HQ,Full-time,2020-12-12,77000
